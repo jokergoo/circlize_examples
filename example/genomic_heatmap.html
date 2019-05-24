@@ -1,0 +1,16 @@
+<html>
+<head><meta charset='UTF-8' />
+<title>example/genomic_heatmap.R</title>
+<link rel='stylesheet' href='styles/github.css'>
+<script src='highlight.pack.js'></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</head><body><p><img src='genomic_heatmap.jpg' style='width:1000px;height:1000px'></p><p><a href='genomic_heatmap.pdf'>download PDF</a></p>
+<p id='comment'></p>
+<p id='code'><pre><code>library(circlize)
+circos.initializeWithIdeogram()
+bed = generateRandomBed(nr = 100, nc = 4)
+col_fun = colorRamp2(c(-1, 0, 1), c("green", "black", "red"))
+circos.genomicHeatmap(bed, col = col_fun, side = "inside", border = "white")
+circos.clear()
+</code></pre></p>
+</body></html>

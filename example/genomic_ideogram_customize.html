@@ -1,0 +1,23 @@
+<html>
+<head><meta charset='UTF-8' />
+<title>example/genomic_ideogram_customize.R</title>
+<link rel='stylesheet' href='styles/github.css'>
+<script src='highlight.pack.js'></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</head><body><p><img src='genomic_ideogram_customize.jpg' style='width:1000px;height:1000px'></p><p><a href='genomic_ideogram_customize.pdf'>download PDF</a></p>
+<p id='comment'></p>
+<p id='code'><pre><code>library(circlize)
+
+circos.initializeWithIdeogram(plotType = NULL)
+
+circos.trackPlotRegion(ylim = c(0, 1), panel.fun = function(x, y) {
+    chr = get.cell.meta.data("sector.index")
+    xlim = get.cell.meta.data("xlim")
+    ylim = get.cell.meta.data("ylim")
+    circos.rect(xlim[1], 0, xlim[2], 0.5,
+        col = rgb(runif(1), runif(1), runif(1)))
+    circos.text(mean(xlim), 0.9, chr, cex = 0.5, facing = "clockwise", niceFacing = TRUE)
+}, bg.border = NA)
+
+circos.clear()</code></pre></p>
+</body></html>

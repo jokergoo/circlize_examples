@@ -1,0 +1,20 @@
+<html>
+<head><meta charset='UTF-8' />
+<title>example/genomic_link.R</title>
+<link rel='stylesheet' href='styles/github.css'>
+<script src='highlight.pack.js'></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</head><body><p><img src='genomic_link.jpg' style='width:1000px;height:1000px'></p><p><a href='genomic_link.pdf'>download PDF</a></p>
+<p id='comment'></p>
+<p id='code'><pre><code>library(circlize)
+
+bed1 = generateRandomBed(nr = 100)
+bed1 = bed1[sample(nrow(bed1), 20), ]
+bed2 = generateRandomBed(nr = 100)
+bed2 = bed2[sample(nrow(bed2), 20), ]
+circos.par("track.height" = 0.1, cell.padding = c(0, 0, 0, 0))
+circos.initializeWithIdeogram()
+
+circos.genomicLink(bed1, bed2, col = sample(1:5, 20, replace = TRUE), border = NA)
+circos.clear()</code></pre></p>
+</body></html>

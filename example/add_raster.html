@@ -1,0 +1,29 @@
+<html>
+<head><meta charset='UTF-8' />
+<title>example/add_raster.R</title>
+<link rel='stylesheet' href='styles/github.css'>
+<script src='highlight.pack.js'></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</head><body><p><img src='add_raster.jpg' style='width:1000px;height:1000px'></p><p><a href='add_raster.pdf'>download PDF</a></p>
+<p id='comment'>png is from <a href="http://www.flaticon.com/packs/communication-and-media-2">http://www.flaticon.com/packs/communication-and-media-2</a>
+ </p>
+<p id='code'><pre><code>
+
+set.seed(123)
+
+files = list.files("example/png/", full.names = TRUE)
+library(png)
+library(circlize)
+
+circos.initialize(fa = letters[1:20], xlim = c(0, 1))
+circos.track(ylim = c(0, 1), panel.fun = function(x, y) {
+    f = sample(files, 1)
+    image = as.raster(readPNG(f))
+
+    circos.raster(image, CELL_META$xcenter, CELL_META$ycenter,
+        width = "1cm", height = "1cm", facing = "downward")
+})
+circos.clear()
+
+</code></pre></p>
+</body></html>

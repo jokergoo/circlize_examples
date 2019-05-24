@@ -1,0 +1,23 @@
+<html>
+<head><meta charset='UTF-8' />
+<title>example/intro-09-text.R</title>
+<link rel='stylesheet' href='styles/github.css'>
+<script src='highlight.pack.js'></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</head><body><p><img src='intro-09-text.jpg' style='width:1000px;height:1000px'></p><p><a href='intro-09-text.pdf'>download PDF</a></p>
+<p id='comment'></p>
+<p id='code'><pre><code>library(circlize)
+factors = letters[1:4]
+circos.par(points.overflow.warning = FALSE)
+circos.initialize(factors = factors, xlim = c(0, 10))
+circos.track(factors = factors, ylim = c(0, 10), track.height = 0.5, panel.fun = function(x, y) {
+    circos.text(3, 9, "inside", facing = "inside", cex = 0.8)
+    circos.text(7, 9, "outside", facing = "outside", cex = 0.8)
+    circos.text(0, 5, "reverse.clockwise", facing = "reverse.clockwise", adj = c(0.5, 0), cex = 0.8)
+    circos.text(10, 5, "clockwise", facing = "clockwise", adj = c(0.5, 0), cex = 0.8)
+    circos.text(5, 5, "downward", facing = "downward", cex = 0.8)
+    circos.text(5, 1, "bending", facing = "bending", cex = 0.8)
+})
+circos.clear()
+</code></pre></p>
+</body></html>

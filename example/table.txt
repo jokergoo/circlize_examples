@@ -1,0 +1,737 @@
+position	player	dob	caps	club	grp	country	league
+GK	Jefferson	1983/1/2	9	Botafogo	Group A	Brazil	Brazil
+DF	Dani Alves	1983/5/6	74	Barcelona	Group A	Brazil	Spain
+DF	Thiago Silva (c)	1984/9/22	45	Paris Saint-Germain	Group A	Brazil	France
+DF	David Luiz	1987/4/22	35	Chelsea	Group A	Brazil	England
+MF	Fernandinho	1985/5/4	6	Manchester City	Group A	Brazil	England
+DF	Marcelo	1988/5/12	30	Real Madrid	Group A	Brazil	Spain
+FW	Hulk	1986/7/25	34	Zenit Saint Petersburg	Group A	Brazil	Russia
+MF	Paulinho	1988/7/25	25	Tottenham Hotspur	Group A	Brazil	England
+FW	Fred	1983/10/3	33	Fluminense	Group A	Brazil	Brazil
+FW	Neymar	1992/2/5	48	Barcelona	Group A	Brazil	Spain
+MF	Oscar	1991/9/9	30	Chelsea	Group A	Brazil	England
+GK	Júlio César	1979/9/3	79	Toronto	Group A	Brazil	Canada
+DF	Dante	1983/10/18	12	Bayern Munich	Group A	Brazil	Germany
+DF	Maxwell	1981/8/27	8	Paris Saint-Germain	Group A	Brazil	France
+DF	Henrique	1986/10/14	5	Napoli	Group A	Brazil	Italy
+MF	Ramires	1987/3/24	42	Chelsea	Group A	Brazil	England
+MF	Luiz Gustavo	1987/7/23	18	VfL Wolfsburg	Group A	Brazil	Germany
+MF	Hernanes	1985/5/29	24	Internazionale	Group A	Brazil	Italy
+MF	Willian	1988/8/9	6	Chelsea	Group A	Brazil	England
+MF	Bernard	1992/9/8	10	Shakhtar Donetsk	Group A	Brazil	Ukraine
+FW	Jô	1987/3/20	16	Atlético Mineiro	Group A	Brazil	Brazil
+GK	Victor	1983/1/21	6	Atlético Mineiro	Group A	Brazil	Brazil
+DF	Maicon	1981/7/26	71	Roma	Group A	Brazil	Italy
+GK	Loïc Feudjou	1992/4/14	1	Coton Sport	Group A	Cameroon	Cameroon
+DF	Benoît Assou-Ekotto	1984/3/24	21	Tottenham Hotspur	Group A	Cameroon	England
+DF	Nicolas N'Koulou	1990/3/27	47	Marseille	Group A	Cameroon	France
+DF	Cédric Djeugoué	1992/8/28	3	Coton Sport	Group A	Cameroon	Cameroon
+DF	Dany Nounkeu	1986/4/11	15	Besiktas	Group A	Cameroon	Turkey
+MF	Alex Song	1987/9/9	46	Barcelona	Group A	Cameroon	Spain
+MF	Landry N'Guémo	1985/11/28	39	Bordeaux	Group A	Cameroon	France
+FW	Benjamin Moukandjo	1988/11/12	16	Nancy	Group A	Cameroon	France
+FW	Samuel Eto'o (c)	1981/3/10	116	Chelsea	Group A	Cameroon	England
+FW	Vincent Aboubakar	1992/1/22	23	Lorient	Group A	Cameroon	France
+MF	Jean Makoun	1983/5/29	66	Rennes	Group A	Cameroon	France
+DF	Henri Bedimo	1984/6/4	30	Lyon	Group A	Cameroon	France
+FW	Maxim Choupo-Moting	1989/3/23	26	Mainz 05	Group A	Cameroon	Germany
+DF	Aurélien Chedjou	1985/6/20	30	Galatasaray	Group A	Cameroon	Turkey
+FW	Pierre Webó	1982/1/20	55	Fenerbahçe	Group A	Cameroon	Turkey
+GK	Charles Itandje	1982/11/2	9	Konyaspor	Group A	Cameroon	Turkey
+MF	Stéphane Mbia	1986/5/20	49	Sevilla	Group A	Cameroon	Spain
+MF	Eyong Enoh	1986/3/23	37	Antalyaspor	Group A	Cameroon	Turkey
+FW	Fabrice Olinga	1996/5/12	7	Zulte Waregem	Group A	Cameroon	Belgium
+MF	Edgar Salli	1992/8/17	8	Lens	Group A	Cameroon	France
+MF	Joël Matip	1991/8/8	22	Schalke 04	Group A	Cameroon	Germany
+DF	Allan Nyom	1988/5/10	8	Granada	Group A	Cameroon	Spain
+GK	Sammy N'Djock	1990/2/25	2	Fethiyespor	Group A	Cameroon	Turkey
+GK	Stipe Pletikosa	1979/1/8	110	Rostov	Group A	Croatia	Russia
+DF	Šime Vrsaljko	1992/1/10	6	Genoa	Group A	Croatia	Italy
+DF	Danijel Pranjic	1981/12/2	48	Panathinaikos	Group A	Croatia	Greece
+MF	Ivan Perišic	1989/2/2	28	VfL Wolfsburg	Group A	Croatia	Germany
+DF	Vedran Corluka	1986/2/5	72	Lokomotiv Moscow	Group A	Croatia	Russia
+DF	Dejan Lovren	1989/7/5	23	Southampton	Group A	Croatia	England
+MF	Ivan Rakitic	1988/3/10	61	Sevilla	Group A	Croatia	Spain
+MF	Ognjen Vukojevic	1983/12/20	55	Dynamo Kyiv	Group A	Croatia	Ukraine
+FW	Nikica Jelavic	1985/8/27	33	Hull City	Group A	Croatia	England
+MF	Luka Modric	1985/9/9	74	Real Madrid	Group A	Croatia	Spain
+DF	Darijo Srna (c)	1982/5/1	112	Shakhtar Donetsk	Group A	Croatia	Ukraine
+GK	Oliver Zelenika	1993/5/14	0	Lokomotiva	Group A	Croatia	Croatia
+DF	Gordon Schildenfeld	1985/3/18	21	Panathinaikos	Group A	Croatia	Greece
+MF	Marcelo Brozovic	1992/10/16	0	Dinamo Zagreb	Group A	Croatia	Croatia
+MF	Ivan Mocinic	1993/4/30	0	Rijeka	Group A	Croatia	Croatia
+FW	Ante Rebic	1993/9/21	4	Fiorentina	Group A	Croatia	Italy
+FW	Mario Mandžukic	1986/5/21	49	Bayern Munich	Group A	Croatia	Germany
+FW	Ivica Olic	1979/9/14	91	VfL Wolfsburg	Group A	Croatia	Germany
+MF	Sammir	1987/4/23	5	Getafe	Group A	Croatia	Spain
+MF	Mateo Kovacic	1994/5/6	9	Internazionale	Group A	Croatia	Italy
+DF	Domagoj Vida	1989/4/29	23	Dynamo Kyiv	Group A	Croatia	Ukraine
+FW	Eduardo	1983/2/25	63	Shakhtar Donetsk	Group A	Croatia	Ukraine
+GK	Danijel Subašic	1984/10/27	6	Monaco	Group A	Croatia	Monaco
+GK	José de Jesús Corona	1981/1/26	33	Cruz Azul	Group A	Mexico	Mexico
+DF	Francisco Javier Rodríguez	1981/10/20	94	América	Group A	Mexico	Mexico
+DF	Carlos Salcido	1980/4/2	122	UANL	Group A	Mexico	Mexico
+DF	Rafael Márquez (c)	1979/2/13	119	León	Group A	Mexico	Mexico
+DF	Diego Reyes	1992/9/19	14	Porto	Group A	Mexico	Portugal
+MF	Héctor Herrera	1990/4/19	12	Porto	Group A	Mexico	Portugal
+DF	Miguel Layún	1988/6/25	14	América	Group A	Mexico	Mexico
+MF	Marco Fabián	1989/7/21	14	Cruz Azul	Group A	Mexico	Mexico
+FW	Raúl Jiménez	1991/5/5	25	América	Group A	Mexico	Mexico
+FW	Giovani dos Santos	1989/5/11	75	Villarreal	Group A	Mexico	Spain
+FW	Alan Pulido	1991/3/8	5	UANL	Group A	Mexico	Mexico
+GK	Alfredo Talavera	1982/9/18	14	Toluca	Group A	Mexico	Mexico
+GK	Guillermo Ochoa	1985/7/13	58	Ajaccio	Group A	Mexico	France
+FW	Javier Hernández	1988/6/1	61	Manchester United	Group A	Mexico	England
+DF	Héctor Moreno	1988/1/17	52	Espanyol	Group A	Mexico	Spain
+DF	Miguel Ángel Ponce	1989/4/12	8	Toluca	Group A	Mexico	Mexico
+MF	Isaác Brizuela	1990/8/28	7	Toluca	Group A	Mexico	Mexico
+DF	Andrés Guardado	1986/9/28	103	Bayer Leverkusen	Group A	Mexico	Germany
+FW	Oribe Peralta	1984/1/12	32	Santos Laguna	Group A	Mexico	Mexico
+MF	Javier Aquino	1990/2/11	21	Villarreal	Group A	Mexico	Spain
+MF	Carlos Peña	1990/3/29	16	León	Group A	Mexico	Mexico
+DF	Paul Aguilar	1986/3/6	29	América	Group A	Mexico	Mexico
+MF	José Juan Vázquez	1988/3/14	4	León	Group A	Mexico	Mexico
+GK	Mathew Ryan	1992/4/8	6	Club Brugge	Group B	Australia	Belgium
+DF	Ivan Franjic	1987/9/10	8	Brisbane Roar	Group B	Australia	Australia
+DF	Jason Davidson	1991/6/29	6	Heracles Almelo	Group B	Australia	Netherlands
+FW	Tim Cahill	1979/12/6	68	New York Red Bulls	Group B	Australia	United States
+MF	Mark Milligan	1985/8/4	28	Melbourne Victory	Group B	Australia	Australia
+DF	Matthew Špiranovic	1988/6/27	17	Western Sydney Wanderers	Group B	Australia	Australia
+FW	Mathew Leckie	1991/2/4	7	FSV Frankfurt	Group B	Australia	Germany
+DF	Bailey Wright	1992/7/28	0	Preston North End	Group B	Australia	England
+FW	Adam Taggart	1993/6/2	4	Newcastle Jets	Group B	Australia	Australia
+MF	Ben Halloran	1992/6/14	1	Fortuna Düsseldorf	Group B	Australia	Germany
+MF	Tommy Oar	1991/12/10	14	Utrecht	Group B	Australia	Netherlands
+GK	Mitchell Langerak	1988/8/22	3	Borussia Dortmund	Group B	Australia	Germany
+MF	Oliver Bozanic	1989/1/8	3	Luzern	Group B	Australia	Switzerland
+MF	James Troisi	1988/7/3	10	Atalanta	Group B	Australia	Italy
+MF	Mile Jedinak (c)	1984/8/3	43	Crystal Palace	Group B	Australia	England
+MF	James Holland	1989/5/15	13	Austria Wien	Group B	Australia	Austria
+MF	Matt McKay	1983/1/11	46	Brisbane Roar	Group B	Australia	Australia
+GK	Eugene Galekovic	1981/6/12	8	Adelaide United	Group B	Australia	Australia
+DF	Ryan McGowan	1989/8/15	9	Shandong Luneng Taishan	Group B	Australia	China
+MF	Dario Vidošic	1987/4/8	22	Sion	Group B	Australia	Switzerland
+MF	Massimo Luongo	1992/9/25	1	Swindon Town	Group B	Australia	England
+DF	Alex Wilkinson	1984/8/13	2	Jeonbuk Hyundai Motors	Group B	Australia	South Korea
+MF	Mark Bresciano	1980/2/11	73	Al-Gharafa	Group B	Australia	Qatar
+GK	Claudio Bravo (c)	1983/4/13	79	Real Sociedad	Group B	Chile	Spain
+DF	Eugenio Mena	1988/7/18	24	Santos	Group B	Chile	Brazil
+DF	Miiko Albornoz	1990/11/3	2	Malmö	Group B	Chile	Sweden
+MF	Mauricio Isla	1988/6/12	46	Juventus	Group B	Chile	Italy
+MF	Francisco Silva	1986/2/11	11	Osasuna	Group B	Chile	Spain
+MF	Carlos Carmona	1987/2/21	43	Atalanta	Group B	Chile	Italy
+FW	Alexis Sánchez	1988/12/19	66	Barcelona	Group B	Chile	Spain
+MF	Arturo Vidal	1987/5/22	53	Juventus	Group B	Chile	Italy
+FW	Mauricio Pinilla	1984/2/4	26	Cagliari	Group B	Chile	Italy
+MF	Jorge Valdívia	1983/10/3	56	Palmeiras	Group B	Chile	Brazil
+FW	Eduardo Vargas	1989/11/20	29	Valencia	Group B	Chile	Spain
+GK	Cristopher Toselli	1988/6/22	4	Universidad Católica	Group B	Chile	Chile
+DF	José Rojas	1983/6/3	18	Universidad de Chile	Group B	Chile	Chile
+MF	Fabián Orellana	1986/1/27	25	Celta Vigo	Group B	Chile	Spain
+MF	Jean Beausejour	1984/6/3	59	Wigan Athletic	Group B	Chile	England
+MF	Felipe Gutiérrez	1990/10/8	17	Twente	Group B	Chile	Netherlands
+DF	Gary Medel	1987/8/3	60	Cardiff City	Group B	Chile	Wales
+DF	Gonzalo Jara	1985/8/29	65	Nottingham Forest	Group B	Chile	England
+MF	José Pedro Fuenzalida	1985/2/22	23	Colo-Colo	Group B	Chile	Chile
+MF	Charles Aránguiz	1989/4/17	20	Internacional	Group B	Chile	Brazil
+MF	Marcelo Díaz	1986/12/30	20	Basel	Group B	Chile	Switzerland
+FW	Esteban Paredes	1980/8/1	34	Colo-Colo	Group B	Chile	Chile
+GK	Johnny Herrera	1981/5/9	7	Universidad de Chile	Group B	Chile	Chile
+GK	Jasper Cillessen	1989/4/22	7	Ajax	Group B	Netherlands	Netherlands
+DF	Ron Vlaar	1985/2/16	23	Aston Villa	Group B	Netherlands	England
+DF	Stefan de Vrij	1992/2/5	11	Feyenoord	Group B	Netherlands	Netherlands
+DF	Bruno Martins Indi	1992/2/8	15	Feyenoord	Group B	Netherlands	Netherlands
+DF	Daley Blind	1990/3/9	11	Ajax	Group B	Netherlands	Netherlands
+MF	Jonathan de Guzmán	1987/9/13	10	Swansea City	Group B	Netherlands	Wales
+DF	Daryl Janmaat	1989/7/22	15	Feyenoord	Group B	Netherlands	Netherlands
+MF	Nigel de Jong	1984/11/13	70	Milan	Group B	Netherlands	Italy
+FW	Robin van Persie (c)	1983/8/6	84	Manchester United	Group B	Netherlands	England
+MF	Wesley Sneijder	1984/6/9	98	Galatasaray	Group B	Netherlands	Turkey
+MF	Arjen Robben	1984/1/23	74	Bayern Munich	Group B	Netherlands	Germany
+DF	Paul Verhaegh	1983/9/1	2	Augsburg	Group B	Netherlands	Germany
+DF	Joël Veltman	1992/1/15	2	Ajax	Group B	Netherlands	Netherlands
+DF	Terence Kongolo	1994/2/14	1	Feyenoord	Group B	Netherlands	Netherlands
+FW	Dirk Kuyt	1980/7/22	98	Fenerbahçe	Group B	Netherlands	Turkey
+MF	Jordy Clasie	1991/6/27	8	Feyenoord	Group B	Netherlands	Netherlands
+FW	Jeremain Lens	1987/11/24	21	Dynamo Kyiv	Group B	Netherlands	Ukraine
+MF	Leroy Fer	1990/1/5	5	Norwich City	Group B	Netherlands	England
+FW	Klaas-Jan Huntelaar	1983/8/12	61	Schalke 04	Group B	Netherlands	Germany
+MF	Georginio Wijnaldum	1990/11/11	4	PSV	Group B	Netherlands	Netherlands
+MF	Memphis Depay	1994/2/13	6	PSV	Group B	Netherlands	Netherlands
+GK	Michel Vorm	1983/10/3	14	Swansea City	Group B	Netherlands	Wales
+GK	Tim Krul	1988/4/3	5	Newcastle United	Group B	Netherlands	England
+GK	Iker Casillas (c)	1981/5/20	153	Real Madrid	Group B	Spain	Spain
+DF	Raúl Albiol	1985/9/4	46	Napoli	Group B	Spain	Italy
+DF	Gerard Piqué	1987/2/2	60	Barcelona	Group B	Spain	Spain
+MF	Javi Martínez	1988/9/2	16	Bayern Munich	Group B	Spain	Germany
+DF	Juanfran	1985/1/9	6	Atlético Madrid	Group B	Spain	Spain
+MF	Andrés Iniesta	1984/5/11	95	Barcelona	Group B	Spain	Spain
+FW	David Villa	1981/12/3	94	Atlético Madrid	Group B	Spain	Spain
+MF	Xavi	1980/1/25	131	Barcelona	Group B	Spain	Spain
+FW	Fernando Torres	1984/3/20	107	Chelsea	Group B	Spain	England
+MF	Cesc Fàbregas	1987/5/4	88	Barcelona	Group B	Spain	Spain
+FW	Pedro	1987/7/28	38	Barcelona	Group B	Spain	Spain
+GK	David de Gea	1990/11/7	0	Manchester United	Group B	Spain	England
+MF	Juan Mata	1988/4/28	32	Manchester United	Group B	Spain	England
+MF	Xabi Alonso	1981/11/25	109	Real Madrid	Group B	Spain	Spain
+DF	Sergio Ramos	1986/3/30	115	Real Madrid	Group B	Spain	Spain
+MF	Sergio Busquets	1988/7/16	64	Barcelona	Group B	Spain	Spain
+MF	Koke	1992/1/8	7	Atlético Madrid	Group B	Spain	Spain
+DF	Jordi Alba	1989/3/21	25	Barcelona	Group B	Spain	Spain
+FW	Diego Costa	1988/10/7	1	Atlético Madrid	Group B	Spain	Spain
+MF	Santi Cazorla	1984/12/13	62	Arsenal	Group B	Spain	England
+MF	David Silva	1986/1/8	79	Manchester City	Group B	Spain	England
+DF	César Azpilicueta	1989/8/28	6	Chelsea	Group B	Spain	England
+GK	Pepe Reina	1982/8/31	31	Napoli	Group B	Spain	Italy
+GK	David Ospina	1988/8/31	42	Nice	Group C	Colombia	France
+DF	Cristián Zapata	1986/9/30	21	Milan	Group C	Colombia	Italy
+DF	Mario Yepes (c)	1976/1/13	96	Atalanta	Group C	Colombia	Italy
+DF	Santiago Arias	1992/1/13	5	PSV	Group C	Colombia	Netherlands
+MF	Aldo Leão Ramírez	1981/4/18	29	Morelia	Group C	Colombia	Mexico
+MF	Carlos Sánchez	1986/2/6	44	Elche	Group C	Colombia	Spain
+DF	Pablo Armero	1986/11/2	51	West Ham United	Group C	Colombia	England
+MF	Abel Aguilar	1985/1/6	48	Toulouse	Group C	Colombia	France
+FW	Teófilo Gutiérrez	1985/5/28	29	River Plate	Group C	Colombia	Argentina
+MF	James Rodríguez	1991/7/12	21	Monaco	Group C	Colombia	Monaco
+MF	Juan Guillermo Cuadrado	1988/5/26	26	Fiorentina	Group C	Colombia	Italy
+GK	Camilo Vargas	1989/9/1	0	Santa Fe	Group C	Colombia	Colombia
+MF	Fredy Guarín	1986/6/30	48	Internazionale	Group C	Colombia	Italy
+MF	Víctor Ibarbo	1990/5/19	8	Cagliari	Group C	Colombia	Italy
+MF	Alexander Mejía	1988/9/7	9	Atlético Nacional	Group C	Colombia	Colombia
+DF	Éder Álvarez Balanta	1993/2/28	2	River Plate	Group C	Colombia	Argentina
+FW	Carlos Bacca	1986/9/8	10	Sevilla	Group C	Colombia	Spain
+DF	Juan Camilo Zúñiga	1985/12/14	52	Napoli	Group C	Colombia	Italy
+FW	Adrián Ramos	1986/1/22	24	Hertha Berlin	Group C	Colombia	Germany
+MF	Juan Fernando Quintero	1993/1/18	4	Porto	Group C	Colombia	Portugal
+FW	Jackson Martínez	1986/10/3	27	Porto	Group C	Colombia	Portugal
+GK	Faryd Mondragón	1971/6/21	55	Deportivo Cali	Group C	Colombia	Colombia
+DF	Carlos Valdés	1985/5/22	13	San Lorenzo	Group C	Colombia	Argentina
+GK	Orestis Karnezis	1985/7/11	18	Granada	Group C	Greece	Spain
+DF	Giannis Maniatis	1986/10/12	29	Olympiacos	Group C	Greece	Greece
+DF	Giorgos Tzavellas	1987/11/26	13	PAOK	Group C	Greece	Greece
+DF	Kostas Manolas	1991/6/14	8	Olympiacos	Group C	Greece	Greece
+DF	Vangelis Moras	1981/8/26	18	Verona	Group C	Greece	Italy
+MF	Alexandros Tziolis	1985/2/13	49	Kayserispor	Group C	Greece	Turkey
+FW	Giorgos Samaras	1985/2/21	73	Celtic	Group C	Greece	Scotland
+MF	Panagiotis Kone	1987/7/26	15	Bologna	Group C	Greece	Italy
+FW	Kostas Mitroglou	1988/3/12	31	Fulham	Group C	Greece	England
+MF	Giorgos Karagounis (c)	1977/3/6	134	Fulham	Group C	Greece	England
+DF	Loukas Vyntra	1981/2/5	49	Levante	Group C	Greece	Spain
+GK	Panagiotis Glykos	1986/6/3	2	PAOK	Group C	Greece	Greece
+GK	Stefanos Kapino	1994/3/18	2	Panathinaikos	Group C	Greece	Greece
+FW	Dimitris Salpingidis	1981/8/18	75	PAOK	Group C	Greece	Greece
+DF	Vasilis Torosidis	1985/6/10	65	Roma	Group C	Greece	Italy
+MF	Lazaros Christodoulopoulos	1986/12/19	18	Bologna	Group C	Greece	Italy
+FW	Theofanis Gekas	1980/5/23	71	Konyaspor	Group C	Greece	Turkey
+MF	Giannis Fetfatzidis	1990/12/21	18	Genoa	Group C	Greece	Italy
+DF	Sokratis Papastathopoulos	1988/6/9	47	Borussia Dortmund	Group C	Greece	Germany
+DF	José Holebas	1984/6/27	21	Olympiacos	Group C	Greece	Greece
+MF	Kostas Katsouranis	1979/6/21	110	PAOK	Group C	Greece	Greece
+MF	Andreas Samaris	1989/6/13	4	Olympiacos	Group C	Greece	Greece
+MF	Panagiotis Tachtsidis	1991/2/15	5	Torino	Group C	Greece	Italy
+GK	Boubacar Barry	1979/12/30	79	Lokeren	Group C	Ivory Coast	Belgium
+GK	Sylvain Gbohouo	1988/10/29	1	Séwé Sport	Group C	Ivory Coast	Ivory Coast
+GK	Sayouba Mandé	1993/6/5	1	Stabæk	Group C	Ivory Coast	Norway
+DF	Didier Zokora	1980/12/14	119	Trabzonspor	Group C	Ivory Coast	Turkey
+DF	Kolo Touré	1981/3/19	106	Liverpool	Group C	Ivory Coast	England
+DF	Arthur Boka	1983/4/2	79	VfB Stuttgart	Group C	Ivory Coast	Germany
+DF	Sol Bamba	1985/1/13	43	Trabzonspor	Group C	Ivory Coast	Turkey
+DF	Serge Aurier	1992/12/24	8	Toulouse	Group C	Ivory Coast	France
+DF	Constant Djakpa	1986/10/17	4	Eintracht Frankfurt	Group C	Ivory Coast	Germany
+DF	Ousmane Viera	1986/12/21	3	Çaykur Rizespor	Group C	Ivory Coast	Turkey
+DF	Jean-Daniel Akpa-Akpro	1992/10/11	1	Toulouse	Group C	Ivory Coast	France
+MF	Yaya Touré	1983/5/13	83	Manchester City	Group C	Ivory Coast	England
+MF	Cheick Tioté	1986/6/21	44	Newcastle United	Group C	Ivory Coast	England
+MF	Didier Ya Konan	1984/2/25	25	Hannover 96	Group C	Ivory Coast	Germany
+MF	Serey Die	1984/11/7	6	Basel	Group C	Ivory Coast	Switzerland
+MF	Ismaël Diomandé	1992/8/28	1	Saint-Étienne	Group C	Ivory Coast	France
+FW	Didier Drogba (c)	1978/3/11	100	Galatasaray	Group C	Ivory Coast	Turkey
+FW	Salomon Kalou	1985/8/5	64	Lille	Group C	Ivory Coast	France
+FW	Gervinho	1987/5/27	53	Roma	Group C	Ivory Coast	Italy
+FW	Max Gradel	1987/11/30	25	Saint-Étienne	Group C	Ivory Coast	France
+FW	Wilfried Bony	1988/12/10	24	Swansea City	Group C	Ivory Coast	Wales
+FW	Giovanni Sio	1989/3/31	7	Basel	Group C	Ivory Coast	Switzerland
+FW	Mathis Bolly	1990/11/14	3	Fortuna Düsseldorf	Group C	Ivory Coast	Germany
+GK	Eiji Kawashima	1983/3/20	56	Standard Liège	Group C	Japan	Belgium
+DF	Atsuto Uchida	1988/3/27	67	Schalke 04	Group C	Japan	Germany
+DF	Gotoku Sakai	1991/2/14	12	VfB Stuttgart	Group C	Japan	Germany
+MF	Keisuke Honda	1986/6/13	55	Milan	Group C	Japan	Italy
+DF	Yuto Nagatomo	1986/9/12	69	Internazionale	Group C	Japan	Italy
+DF	Masato Morishige	1987/5/21	9	F.C. Tokyo	Group C	Japan	Japan
+MF	Yasuhito Endo	1980/1/28	143	Gamba Osaka	Group C	Japan	Japan
+MF	Hiroshi Kiyotake	1989/11/12	25	1. FC Nürnberg	Group C	Japan	Germany
+FW	Shinji Okazaki	1986/4/16	75	Mainz 05	Group C	Japan	Germany
+MF	Shinji Kagawa	1989/3/17	56	Manchester United	Group C	Japan	England
+FW	Yoichiro Kakitani	1990/1/3	11	Cerezo Osaka	Group C	Japan	Japan
+GK	Shusaku Nishikawa	1986/6/18	12	Urawa Red Diamonds	Group C	Japan	Japan
+FW	Yoshito Okubo	1982/6/9	56	Kawasaki Frontale	Group C	Japan	Japan
+MF	Toshihiro Aoyama	1986/2/22	5	Sanfrecce Hiroshima	Group C	Japan	Japan
+DF	Yasuyuki Konno	1983/1/25	80	Gamba Osaka	Group C	Japan	Japan
+MF	Hotaru Yamaguchi	1990/10/6	11	Cerezo Osaka	Group C	Japan	Japan
+MF	Makoto Hasebe (c)	1984/1/18	78	1. FC Nürnberg	Group C	Japan	Germany
+FW	Yuya Osako	1990/5/18	8	1860 München	Group C	Japan	Germany
+DF	Masahiko Inoha	1983/8/28	21	Jubilo Iwata	Group C	Japan	Japan
+FW	Manabu Saito	1990/4/4	4	Yokohama F. Marinos	Group C	Japan	Japan
+DF	Hiroki Sakai	1990/4/12	17	Hannover 96	Group C	Japan	Germany
+DF	Maya Yoshida	1988/8/24	40	Southampton	Group C	Japan	England
+GK	Shuichi Gonda	1989/3/3	2	F.C. Tokyo	Group C	Japan	Japan
+GK	Keylor Navas	1986/12/15	52	Levante	Group D	Costa Rica	Spain
+DF	Johnny Acosta	1983/7/21	25	Alajuelense	Group D	Costa Rica	Costa Rica
+DF	Giancarlo González	1988/2/8	34	Columbus Crew	Group D	Costa Rica	United States
+DF	Michael Umaña	1982/7/16	82	Saprissa	Group D	Costa Rica	Costa Rica
+MF	Celso Borges	1988/5/27	62	AIK	Group D	Costa Rica	Sweden
+DF	Óscar Duarte	1989/6/3	10	Club Brugge	Group D	Costa Rica	Belgium
+MF	Christian Bolaños	1984/5/17	54	Copenhagen	Group D	Costa Rica	Denmark
+DF	Heiner Mora	1984/6/20	21	Saprissa	Group D	Costa Rica	Costa Rica
+FW	Joel Campbell	1992/6/26	32	Olympiacos	Group D	Costa Rica	Greece
+FW	Bryan Ruiz (c)	1985/8/18	62	PSV	Group D	Costa Rica	Netherlands
+MF	Michael Barrantes	1983/10/4	50	Aalesund	Group D	Costa Rica	Norway
+DF	Waylon Francis	1990/9/20	1	Columbus Crew	Group D	Costa Rica	United States
+MF	Esteban Granados	1985/10/25	11	Herediano	Group D	Costa Rica	Costa Rica
+FW	Randall Brenes	1983/8/13	38	Cartaginés	Group D	Costa Rica	Costa Rica
+DF	Júnior Díaz	1983/9/12	61	Mainz 05	Group D	Costa Rica	Germany
+DF	Cristian Gamboa	1989/10/24	25	Rosenborg	Group D	Costa Rica	Norway
+MF	Yeltsin Tejeda	1992/3/17	22	Saprissa	Group D	Costa Rica	Costa Rica
+GK	Patrick Pemberton	1982/4/24	20	Alajuelense	Group D	Costa Rica	Costa Rica
+DF	Roy Miller	1984/11/24	48	New York Red Bulls	Group D	Costa Rica	United States
+MF	Diego Calvo	1991/3/25	9	Vålerenga	Group D	Costa Rica	Norway
+FW	Marco Ureña	1990/3/5	23	Kuban Krasnodar	Group D	Costa Rica	Russia
+MF	José Miguel Cubero	1987/2/14	34	Herediano	Group D	Costa Rica	Costa Rica
+GK	Daniel Cambronero	1986/1/8	4	Herediano	Group D	Costa Rica	Costa Rica
+GK	Joe Hart	1987/5/19	40	Manchester City	Group D	England	England
+DF	Glen Johnson	1984/8/23	51	Liverpool	Group D	England	England
+DF	Leighton Baines	1984/12/11	23	Everton	Group D	England	England
+MF	Steven Gerrard (c)	1980/5/30	110	Liverpool	Group D	England	England
+DF	Gary Cahill	1985/12/19	23	Chelsea	Group D	England	England
+DF	Phil Jagielka	1982/8/17	25	Everton	Group D	England	England
+MF	Jack Wilshere	1992/1/1	16	Arsenal	Group D	England	England
+MF	Frank Lampard	1978/6/20	103	Chelsea	Group D	England	England
+FW	Daniel Sturridge	1989/9/1	11	Liverpool	Group D	England	England
+FW	Wayne Rooney	1985/10/24	90	Manchester United	Group D	England	England
+FW	Danny Welbeck	1990/11/26	22	Manchester United	Group D	England	England
+DF	Chris Smalling	1989/11/22	11	Manchester United	Group D	England	England
+GK	Ben Foster	1983/5/3	6	West Bromwich Albion	Group D	England	England
+MF	Jordan Henderson	1990/6/17	9	Liverpool	Group D	England	England
+MF	Alex Oxlade-Chamberlain	1993/8/15	14	Arsenal	Group D	England	England
+DF	Phil Jones	1992/2/21	9	Manchester United	Group D	England	England
+MF	James Milner	1986/1/4	46	Manchester City	Group D	England	England
+FW	Rickie Lambert	1982/2/16	4	Southampton	Group D	England	England
+MF	Raheem Sterling	1994/12/8	3	Liverpool	Group D	England	England
+MF	Adam Lallana	1988/5/10	4	Southampton	Group D	England	England
+MF	Ross Barkley	1993/12/5	4	Everton	Group D	England	England
+GK	Fraser Forster	1988/3/17	1	Celtic	Group D	England	Scotland
+DF	Luke Shaw	1995/7/12	1	Southampton	Group D	England	England
+GK	Gianluigi Buffon (c)	1978/1/28	139	Juventus	Group D	Italy	Italy
+DF	Mattia De Sciglio	1992/10/20	10	Milan	Group D	Italy	Italy
+DF	Giorgio Chiellini	1984/8/14	67	Juventus	Group D	Italy	Italy
+DF	Matteo Darmian	1989/12/2	1	Torino	Group D	Italy	Italy
+MF	Thiago Motta	1982/8/28	20	Paris Saint-Germain	Group D	Italy	France
+MF	Antonio Candreva	1987/2/28	19	Lazio	Group D	Italy	Italy
+DF	Ignazio Abate	1986/11/12	19	Milan	Group D	Italy	Italy
+MF	Claudio Marchisio	1986/1/19	43	Juventus	Group D	Italy	Italy
+FW	Mario Balotelli	1990/8/12	29	Milan	Group D	Italy	Italy
+FW	Antonio Cassano	1982/7/12	36	Parma	Group D	Italy	Italy
+FW	Alessio Cerci	1987/7/23	11	Torino	Group D	Italy	Italy
+GK	Salvatore Sirigu	1987/1/12	8	Paris Saint-Germain	Group D	Italy	France
+GK	Mattia Perin	1992/11/10	0	Genoa	Group D	Italy	Italy
+MF	Alberto Aquilani	1984/7/7	34	Fiorentina	Group D	Italy	Italy
+DF	Andrea Barzagli	1981/5/8	47	Juventus	Group D	Italy	Italy
+MF	Daniele De Rossi	1983/7/24	94	Roma	Group D	Italy	Italy
+FW	Ciro Immobile	1990/2/20	2	Torino	Group D	Italy	Italy
+MF	Marco Parolo	1985/1/25	3	Parma	Group D	Italy	Italy
+DF	Leonardo Bonucci	1987/5/1	36	Juventus	Group D	Italy	Italy
+DF	Gabriel Paletta	1986/2/15	2	Parma	Group D	Italy	Italy
+MF	Andrea Pirlo	1979/5/19	108	Juventus	Group D	Italy	Italy
+FW	Lorenzo Insigne	1991/6/4	4	Napoli	Group D	Italy	Italy
+MF	Marco Verratti	1992/11/5	5	Paris Saint-Germain	Group D	Italy	France
+GK	Fernando Muslera	1986/6/16	57	Galatasaray	Group D	Uruguay	Turkey
+DF	Diego Lugano (c)	1980/11/2	93	West Bromwich Albion	Group D	Uruguay	England
+DF	Diego Godín	1986/2/16	76	Atlético Madrid	Group D	Uruguay	Spain
+DF	Sebastián Coates	1990/10/7	14	Nacional	Group D	Uruguay	Uruguay
+MF	Walter Gargano	1984/7/23	62	Parma	Group D	Uruguay	Italy
+MF	Álvaro Pereira	1985/11/28	56	São Paulo	Group D	Uruguay	Brazil
+MF	Cristian Rodríguez	1985/9/30	72	Atlético Madrid	Group D	Uruguay	Spain
+FW	Abel Hernández	1990/8/8	12	Palermo	Group D	Uruguay	Italy
+FW	Luis Suárez	1987/1/24	77	Liverpool	Group D	Uruguay	England
+FW	Diego Forlán	1979/5/19	109	Cerezo Osaka	Group D	Uruguay	Japan
+FW	Christian Stuani	1986/10/12	9	Espanyol	Group D	Uruguay	Spain
+GK	Rodrigo Muñoz	1982/1/22	0	Libertad	Group D	Uruguay	Paraguay
+DF	Jorge Fucile	1984/11/19	41	Porto	Group D	Uruguay	Portugal
+MF	Nicolás Lodeiro	1989/3/21	26	Botafogo	Group D	Uruguay	Brazil
+MF	Diego Pérez	1980/5/18	89	Bologna	Group D	Uruguay	Italy
+DF	Maxi Pereira	1984/6/8	89	Benfica	Group D	Uruguay	Portugal
+MF	Egidio Arévalo Ríos	1982/1/1	54	Morelia	Group D	Uruguay	Mexico
+MF	Gastón Ramírez	1990/12/2	28	Southampton	Group D	Uruguay	England
+DF	José María Giménez	1995/1/20	5	Atlético Madrid	Group D	Uruguay	Spain
+MF	Álvaro González	1984/10/29	42	Lazio	Group D	Uruguay	Italy
+FW	Edinson Cavani	1987/2/14	61	Paris Saint-Germain	Group D	Uruguay	France
+DF	Martín Cáceres	1987/4/7	56	Juventus	Group D	Uruguay	Italy
+GK	Martín Silva	1983/3/25	4	Vasco da Gama	Group D	Uruguay	Brazil
+GK	Máximo Banguera	1985/12/16	24	Barcelona	Group E	Ecuador	Ecuador
+DF	Jorge Guagua	1981/9/28	58	Emelec	Group E	Ecuador	Ecuador
+DF	Frickson Erazo	1988/5/5	36	Flamengo	Group E	Ecuador	Brazil
+DF	Juan Carlos Paredes	1987/7/8	37	Barcelona	Group E	Ecuador	Ecuador
+MF	Renato Ibarra	1991/1/20	17	Vitesse	Group E	Ecuador	Netherlands
+MF	Christian Noboa	1985/4/9	41	Dynamo Moscow	Group E	Ecuador	Russia
+MF	Jefferson Montero	1989/9/1	39	Morelia	Group E	Ecuador	Mexico
+MF	Édison Méndez	1979/3/15	109	Santa Fe	Group E	Ecuador	Colombia
+MF	Joao Rojas	1989/6/14	29	Cruz Azul	Group E	Ecuador	Mexico
+DF	Walter Ayoví	1979/8/11	89	Pachuca	Group E	Ecuador	Mexico
+FW	Felipe Caicedo	1988/9/5	49	Al-Jazira	Group E	Ecuador	U.A.E.
+GK	Adrián Bone	1988/9/8	3	El Nacional	Group E	Ecuador	Ecuador
+FW	Enner Valencia	1989/4/11	9	Pachuca	Group E	Ecuador	Mexico
+MF	Segundo Castillo	1982/5/15	81	Al-Hilal	Group E	Ecuador	Saudi Arabia
+MF	Michael Arroyo	1987/4/23	20	Atlante	Group E	Ecuador	Mexico
+MF	Antonio Valencia (c)	1985/8/4	70	Manchester United	Group E	Ecuador	England
+FW	Jaime Ayoví	1988/2/21	30	Tijuana	Group E	Ecuador	Mexico
+DF	Óscar Bagüí	1982/12/10	21	Emelec	Group E	Ecuador	Ecuador
+MF	Luis Saritama	1983/10/20	48	Barcelona	Group E	Ecuador	Ecuador
+MF	Fidel Martínez	1990/2/15	8	Tijuana	Group E	Ecuador	Mexico
+DF	Gabriel Achilier	1985/3/24	22	Emelec	Group E	Ecuador	Ecuador
+GK	Alexander Domínguez	1987/6/5	18	LDU Quito	Group E	Ecuador	Ecuador
+MF	Carlos Gruezo	1995/4/19	2	VfB Stuttgart	Group E	Ecuador	Germany
+GK	Hugo Lloris (c)	1986/12/26	56	Tottenham Hotspur	Group E	France	England
+DF	Mathieu Debuchy	1985/7/28	20	Newcastle United	Group E	France	England
+DF	Patrice Evra	1981/5/15	57	Manchester United	Group E	France	England
+DF	Raphaël Varane	1993/4/25	5	Real Madrid	Group E	France	Spain
+DF	Mamadou Sakho	1990/2/13	18	Liverpool	Group E	France	England
+MF	Yohan Cabaye	1986/1/14	29	Paris Saint-Germain	Group E	France	France
+MF	Franck Ribéry	1983/4/7	81	Bayern Munich	Group E	France	Germany
+MF	Mathieu Valbuena	1984/9/28	33	Marseille	Group E	France	France
+FW	Olivier Giroud	1986/9/30	29	Arsenal	Group E	France	England
+FW	Karim Benzema	1987/12/19	65	Real Madrid	Group E	France	Spain
+MF	Antoine Griezmann	1991/3/21	3	Real Sociedad	Group E	France	Spain
+MF	Rio Mavuba	1984/3/8	11	Lille	Group E	France	France
+DF	Eliaquim Mangala	1991/2/13	3	Porto	Group E	France	Portugal
+MF	Blaise Matuidi	1987/4/9	22	Paris Saint-Germain	Group E	France	France
+DF	Bacary Sagna	1983/2/14	40	Arsenal	Group E	France	England
+GK	Stéphane Ruffier[33]	1986/9/27	2	Saint-Étienne	Group E	France	France
+DF	Lucas Digne	1993/7/20	2	Paris Saint-Germain	Group E	France	France
+MF	Moussa Sissoko	1989/8/16	16	Newcastle United	Group E	France	England
+MF	Paul Pogba	1993/3/15	10	Juventus	Group E	France	Italy
+FW	Loïc Rémy	1987/1/2	24	Newcastle United	Group E	France	England
+DF	Laurent Koscielny	1985/9/10	17	Arsenal	Group E	France	England
+MF	Clément Grenier	1991/1/7	5	Lyon	Group E	France	France
+GK	Mickaël Landreau	1979/5/14	11	Bastia	Group E	France	France
+GK	Luis López	1993/9/13	0	Real España	Group E	Honduras	Honduras
+DF	Osman Chávez	1984/7/29	54	Qingdao Jonoon	Group E	Honduras	China
+DF	Maynor Figueroa	1983/5/2	104	Hull City	Group E	Honduras	England
+DF	Juan Pablo Montes	1985/10/26	11	Motagua	Group E	Honduras	Honduras
+DF	Víctor Bernárdez	1982/5/24	77	San Jose Earthquakes	Group E	Honduras	United States
+DF	Juan Carlos García	1988/3/8	33	Wigan Athletic	Group E	Honduras	England
+DF	Emilio Izaguirre	1986/5/10	67	Celtic	Group E	Honduras	Scotland
+MF	Wilson Palacios	1984/7/29	94	Stoke City	Group E	Honduras	England
+FW	Jerry Palacios	1981/11/1	23	Alajuelense	Group E	Honduras	Costa Rica
+MF	Mario Martínez	1989/7/30	35	Real España	Group E	Honduras	Honduras
+FW	Jerry Bengtson	1987/4/8	43	New England Revolution	Group E	Honduras	United States
+MF	Edder Delgado[35]	1986/11/20	25	Real España	Group E	Honduras	Honduras
+FW	Carlo Costly	1982/7/18	69	Real España	Group E	Honduras	Honduras
+MF	Óscar García	1984/9/4	92	Houston Dynamo	Group E	Honduras	United States
+MF	Roger Espinoza	1986/10/25	41	Wigan Athletic	Group E	Honduras	England
+FW	Rony Martínez	1988/10/16	12	Real Sociedad	Group E	Honduras	Honduras
+MF	Marvin Chávez	1983/11/3	41	Chivas USA	Group E	Honduras	United States
+GK	Noel Valladares (c)	1977/5/3	121	Olimpia	Group E	Honduras	Honduras
+MF	Luis Garrido	1990/11/5	19	Olimpia	Group E	Honduras	Honduras
+MF	Jorge Claros	1986/1/8	48	Motagua	Group E	Honduras	Honduras
+MF	Andy Najar	1993/3/16	16	Anderlecht	Group E	Honduras	Belgium
+GK	Donis Escober	1980/2/3	26	Olimpia	Group E	Honduras	Honduras
+DF	Brayan Beckeles	1985/11/28	22	Olimpia	Group E	Honduras	Honduras
+GK	Diego Benaglio	1983/9/8	56	VfL Wolfsburg	Group E	Switzerland	Germany
+DF	Stephan Lichtsteiner	1984/1/16	62	Juventus	Group E	Switzerland	Italy
+DF	Reto Ziegler	1986/1/16	35	Sassuolo	Group E	Switzerland	Italy
+DF	Philippe Senderos	1985/2/14	53	Valencia	Group E	Switzerland	Spain
+DF	Steve von Bergen	1983/6/10	40	Young Boys	Group E	Switzerland	Switzerland
+DF	Michael Lang	1991/2/8	5	Grasshopper	Group E	Switzerland	Switzerland
+MF	Tranquillo Barnetta	1985/5/22	73	Eintracht Frankfurt	Group E	Switzerland	Germany
+MF	Gökhan Inler (c)	1984/6/27	71	Napoli	Group E	Switzerland	Italy
+FW	Haris Seferovic	1992/2/22	10	Real Sociedad	Group E	Switzerland	Spain
+MF	Granit Xhaka	1992/9/27	25	Borussia Mönchengladbach	Group E	Switzerland	Germany
+MF	Valon Behrami	1985/4/19	47	Napoli	Group E	Switzerland	Italy
+GK	Yann Sommer	1988/12/17	6	Basel	Group E	Switzerland	Switzerland
+DF	Ricardo Rodríguez	1992/8/25	20	VfL Wolfsburg	Group E	Switzerland	Germany
+MF	Valentin Stocker	1989/4/12	23	Basel	Group E	Switzerland	Switzerland
+MF	Blerim Džemaili	1986/4/12	33	Napoli	Group E	Switzerland	Italy
+MF	Gelson Fernandes	1986/9/2	47	SC Freiburg	Group E	Switzerland	Germany
+FW	Mario Gavranovic	1989/11/24	10	Zürich	Group E	Switzerland	Switzerland
+FW	Admir Mehmedi	1991/3/16	20	SC Freiburg	Group E	Switzerland	Germany
+FW	Josip Drmic	1992/8/8	6	1. FC Nürnberg	Group E	Switzerland	Germany
+DF	Johan Djourou	1987/1/18	44	Hamburger SV	Group E	Switzerland	Germany
+GK	Roman Bürki	1990/11/14	0	Grasshopper	Group E	Switzerland	Switzerland
+DF	Fabian Schär	1991/12/20	5	Basel	Group E	Switzerland	Switzerland
+MF	Xherdan Shaqiri	1991/10/10	32	Bayern Munich	Group E	Switzerland	Germany
+GK	Sergio Romero	1987/2/22	45	Monaco	Group F	Argentina	Monaco
+DF	Ezequiel Garay	1986/10/10	18	Benfica	Group F	Argentina	Portugal
+DF	Hugo Campagnaro	1980/6/27	13	Internazionale	Group F	Argentina	Italy
+DF	Pablo Zabaleta	1985/1/16	36	Manchester City	Group F	Argentina	England
+MF	Fernando Gago	1986/4/10	47	Boca Juniors	Group F	Argentina	Argentina
+MF	Lucas Biglia	1986/1/30	16	Lazio	Group F	Argentina	Italy
+MF	Ángel di María	1988/2/14	45	Real Madrid	Group F	Argentina	Spain
+MF	Enzo Pérez	1986/2/22	5	Benfica	Group F	Argentina	Portugal
+FW	Gonzalo Higuaín	1987/12/10	36	Napoli	Group F	Argentina	Italy
+FW	Lionel Messi (c)	1987/6/24	84	Barcelona	Group F	Argentina	Spain
+MF	Maxi Rodríguez	1981/1/2	53	Newell's Old Boys	Group F	Argentina	Argentina
+GK	Agustín Orión	1981/7/26	3	Boca Juniors	Group F	Argentina	Argentina
+MF	Augusto Fernández	1986/4/10	7	Celta Vigo	Group F	Argentina	Spain
+MF	Javier Mascherano	1984/6/8	96	Barcelona	Group F	Argentina	Spain
+DF	Martín Demichelis	1980/12/20	37	Manchester City	Group F	Argentina	England
+DF	Marcos Rojo	1990/3/20	20	Sporting	Group F	Argentina	Portugal
+DF	Federico Fernández	1989/2/21	24	Napoli	Group F	Argentina	Italy
+FW	Rodrigo Palacio	1982/2/5	15	Internazionale	Group F	Argentina	Italy
+MF	Ricardo Álvarez	1988/4/12	5	Internazionale	Group F	Argentina	Italy
+FW	Sergio Agüero	1988/6/2	50	Manchester City	Group F	Argentina	England
+GK	Mariano Andújar	1983/7/30	10	Catania	Group F	Argentina	Italy
+FW	Ezequiel Lavezzi	1985/5/3	29	Paris Saint-Germain	Group F	Argentina	France
+DF	José María Basanta	1984/4/3	8	Monterrey	Group F	Argentina	Mexico
+GK	Asmir Avdukic	1981/5/13	3	Borac Banja Luka	Group F	Bosnia & Herz.	Bosnia & Herz.
+DF	Avdija Vršajevic	1986/3/6	13	Hajduk Split	Group F	Bosnia & Herz.	Croatia
+DF	Ermin Bicakcic	1990/1/24	7	Eintracht Braunschweig	Group F	Bosnia & Herz.	Germany
+DF	Emir Spahic (c)	1980/8/18	74	Bayer Leverkusen	Group F	Bosnia & Herz.	Germany
+DF	Sead Kolašinac	1993/6/20	4	Schalke 04	Group F	Bosnia & Herz.	Germany
+DF	Ognjen Vranješ	1989/10/24	13	Elazigspor	Group F	Bosnia & Herz.	Turkey
+DF	Muhamed Bešic	1992/9/10	9	Ferencváros	Group F	Bosnia & Herz.	Hungary
+MF	Miralem Pjanic	1990/4/2	48	Roma	Group F	Bosnia & Herz.	Italy
+FW	Vedad Ibiševic	1984/8/6	55	VfB Stuttgart	Group F	Bosnia & Herz.	Germany
+MF	Zvjezdan Misimovic	1982/6/5	82	Guizhou Renhe	Group F	Bosnia & Herz.	China
+FW	Edin Džeko	1986/3/17	62	Manchester City	Group F	Bosnia & Herz.	England
+GK	Jasmin Fejzic	1986/5/15	0	VfR Aalen	Group F	Bosnia & Herz.	Germany
+DF	Mensur Mujdža	1984/3/28	24	SC Freiburg	Group F	Bosnia & Herz.	Germany
+MF	Izet Hajrovic	1991/8/4	7	Galatasaray	Group F	Bosnia & Herz.	Turkey
+DF	Toni Šunjic	1988/12/15	7	Zorya Luhansk	Group F	Bosnia & Herz.	Ukraine
+MF	Senad Lulic	1986/1/18	33	Lazio	Group F	Bosnia & Herz.	Italy
+MF	Senijad Ibricic	1985/9/26	42	Kayseri Erciyesspor	Group F	Bosnia & Herz.	Turkey
+MF	Haris Medunjanin	1985/3/8	35	Gaziantepspor	Group F	Bosnia & Herz.	Turkey
+FW	Edin Višca	1990/2/17	10	Istanbul BB	Group F	Bosnia & Herz.	Turkey
+MF	Anel Hadžic	1989/8/16	2	Sturm Graz	Group F	Bosnia & Herz.	Austria
+MF	Tino-Sven Sušic	1992/2/13	2	Hajduk Split	Group F	Bosnia & Herz.	Croatia
+GK	Asmir Begovic	1987/6/20	30	Stoke City	Group F	Bosnia & Herz.	England
+MF	Sejad Salihovic	1984/10/8	42	1899 Hoffenheim	Group F	Bosnia & Herz.	Germany
+GK	Rahman Ahmadi	1980/7/30	10	Sepahan	Group F	Iran	Iran
+MF	Khosro Heydari	1983/9/14	48	Esteghlal	Group F	Iran	Iran
+MF	Ehsan Hajsafi	1990/2/25	61	Sepahan	Group F	Iran	Iran
+DF	Jalal Hosseini	1982/2/3	84	Persepolis	Group F	Iran	Iran
+DF	Amir Hossein Sadeghi	1981/9/6	16	Esteghlal	Group F	Iran	Iran
+MF	Javad Nekounam (c)	1980/10/7	139	Al-Kuwait	Group F	Iran	Kuwait
+MF	Masoud Shojaei	1984/6/9	49	Las Palmas	Group F	Iran	Spain
+MF	Reza Haghighi	1989/2/1	7	Persepolis	Group F	Iran	Iran
+FW	Alireza Jahanbakhsh	1993/8/11	6	NEC	Group F	Iran	Netherlands
+FW	Karim Ansarifard	1990/4/3	41	Tractor Sazi	Group F	Iran	Iran
+MF	Ghasem Haddadifar	1983/7/12	16	Zob Ahan	Group F	Iran	Iran
+GK	Alireza Haghighi	1988/5/2	5	Sporting Covilhã	Group F	Iran	Portugal
+DF	Hossein Mahini	1986/9/16	21	Persepolis	Group F	Iran	Iran
+MF	Andranik Teymourian	1983/3/6	78	Esteghlal	Group F	Iran	Iran
+DF	Pejman Montazeri	1983/9/6	21	Umm Salal	Group F	Iran	Qatar
+FW	Reza Ghoochannejhad	1987/9/20	13	Charlton Athletic	Group F	Iran	England
+DF	Ahmad Alenemeh	1982/10/10	9	Naft Tehran	Group F	Iran	Iran
+MF	Bakhtiar Rahmani	1991/9/23	4	Foolad	Group F	Iran	Iran
+DF	Hashem Beikzadeh	1984/1/22	17	Esteghlal	Group F	Iran	Iran
+DF	Steven Beitashour	1987/2/1	6	Vancouver Whitecaps	Group F	Iran	Canada
+MF	Ashkan Dejagah	1986/7/5	13	Fulham	Group F	Iran	England
+GK	Daniel Davari	1988/1/6	4	Eintracht Braunschweig	Group F	Iran	Germany
+DF	Mehrdad Pouladi	1987/2/26	19	Persepolis	Group F	Iran	Iran
+GK	Vincent Enyeama (c)	1982/8/29	90	Lille	Group F	Nigeria	France
+GK	Austin Ejide	1984/4/8	32	Hapoel Be'er Sheva	Group F	Nigeria	Israel
+GK	Chigozie Agbim	1984/11/28	11	Gombe United	Group F	Nigeria	Nigeria
+DF	Joseph Yobo	1980/9/6	96	Norwich City	Group F	Nigeria	England
+DF	Uwa Elderson Echiéjilé	1988/1/20	42	Monaco	Group F	Nigeria	Monaco
+DF	Efe Ambrose	1988/10/18	36	Celtic	Group F	Nigeria	Scotland
+DF	Godfrey Oboabona	1990/8/16	35	Çaykur Rizespor	Group F	Nigeria	Turkey
+DF	Azubuike Egwuekwe	1989/7/16	32	Warri Wolves	Group F	Nigeria	Nigeria
+DF	Kenneth Omeruo	1993/10/17	17	Middlesbrough	Group F	Nigeria	England
+DF	Kunle Odunlami	1990/3/5	10	Sunshine Stars	Group F	Nigeria	Nigeria
+DF	Juwon Oshaniwa	1990/9/14	10	Ashdod	Group F	Nigeria	Israel
+MF	John Obi Mikel	1987/4/22	59	Chelsea	Group F	Nigeria	England
+MF	Victor Moses	1990/12/12	20	Liverpool	Group F	Nigeria	England
+MF	Ogenyi Onazi	1992/12/25	20	Lazio	Group F	Nigeria	Italy
+MF	Reuben Gabriel	1990/9/25	11	Waasland-Beveren	Group F	Nigeria	Belgium
+MF	Michael Babatunde	1992/12/24	4	Volyn Lutsk	Group F	Nigeria	Ukraine
+MF	Ramon Azeez	1992/12/12	1	Almería	Group F	Nigeria	Spain
+FW	Peter Odemwingie	1981/7/15	60	Stoke City	Group F	Nigeria	England
+FW	Ahmed Musa	1992/10/14	35	CSKA Moscow	Group F	Nigeria	Russia
+FW	Emmanuel Emenike	1987/5/10	22	Fenerbahçe	Group F	Nigeria	Turkey
+FW	Uche Nwofor	1991/9/17	6	Heerenveen	Group F	Nigeria	Netherlands
+FW	Shola Ameobi	1981/10/12	6	Newcastle United	Group F	Nigeria	England
+FW	Michael Uchebo	1990/2/2	3	Cercle Brugge	Group F	Nigeria	Belgium
+GK	Manuel Neuer	1986/3/27	45	Bayern Munich	Group G	Germany	Germany
+DF	Kevin Großkreutz	1988/7/19	4	Borussia Dortmund	Group G	Germany	Germany
+MF	Matthias Ginter	1994/1/19	2	SC Freiburg	Group G	Germany	Germany
+DF	Benedikt Höwedes	1988/2/29	20	Schalke 04	Group G	Germany	Germany
+DF	Mats Hummels	1988/12/16	29	Borussia Dortmund	Group G	Germany	Germany
+MF	Sami Khedira	1987/4/4	45	Real Madrid	Group G	Germany	Spain
+MF	Bastian Schweinsteiger	1984/8/1	101	Bayern Munich	Group G	Germany	Germany
+MF	Mesut Özil	1988/10/15	54	Arsenal	Group G	Germany	England
+MF	André Schürrle	1990/11/6	32	Chelsea	Group G	Germany	England
+FW	Lukas Podolski	1985/6/4	113	Arsenal	Group G	Germany	England
+FW	Miroslav Klose	1978/6/9	131	Lazio	Group G	Germany	Italy
+GK	Ron-Robert Zieler	1989/2/12	3	Hannover 96	Group G	Germany	Germany
+MF	Thomas Müller	1989/9/13	48	Bayern Munich	Group G	Germany	Germany
+MF	Julian Draxler	1993/9/20	11	Schalke 04	Group G	Germany	Germany
+DF	Erik Durm	1992/5/12	1	Borussia Dortmund	Group G	Germany	Germany
+DF	Philipp Lahm (c)	1983/11/11	105	Bayern Munich	Group G	Germany	Germany
+DF	Per Mertesacker	1984/9/29	97	Arsenal	Group G	Germany	England
+MF	Toni Kroos	1990/1/4	43	Bayern Munich	Group G	Germany	Germany
+MF	Mario Götze	1992/6/3	28	Bayern Munich	Group G	Germany	Germany
+DF	Jérôme Boateng	1988/9/3	38	Bayern Munich	Group G	Germany	Germany
+MF	Marco Reus	1989/5/31	20	Borussia Dortmund	Group G	Germany	Germany
+GK	Roman Weidenfeller	1980/8/6	2	Borussia Dortmund	Group G	Germany	Germany
+MF	Christoph Kramer	1991/2/12	2	Borussia Mönchengladbach	Group G	Germany	Germany
+GK	Adam Kwarasey	1987/12/12	21	Strømsgodset	Group G	Ghana	Norway
+GK	Fatau Dauda	1985/4/6	17	Orlando Pirates	Group G	Ghana	South Africa
+GK	Steven Adams	1989/9/28	7	Aduana Stars	Group G	Ghana	Ghana
+DF	Samuel Inkoom	1989/6/1	46	Platanias	Group G	Ghana	Greece
+DF	Harrison Afful	1986/6/24	40	Espérance	Group G	Ghana	Tunisia
+DF	John Boye	1987/4/23	29	Rennes	Group G	Ghana	France
+DF	Jonathan Mensah	1990/7/13	26	Évian	Group G	Ghana	France
+DF	Daniel Opare	1990/10/18	16	Standard Liège	Group G	Ghana	Belgium
+DF	Rashid Sumaila	1992/12/18	6	Mamelodi Sundowns	Group G	Ghana	South Africa
+MF	Sulley Muntari	1984/8/27	81	Milan	Group G	Ghana	Italy
+MF	Kwadwo Asamoah	1988/12/9	61	Juventus	Group G	Ghana	Italy
+MF	Michael Essien	1982/12/3	57	Milan	Group G	Ghana	Italy
+MF	Emmanuel Agyemang-Badu	1990/12/2	48	Udinese	Group G	Ghana	Italy
+MF	André Ayew	1989/12/17	48	Marseille	Group G	Ghana	France
+MF	Christian Atsu	1992/1/10	22	Vitesse	Group G	Ghana	Netherlands
+MF	Wakaso Mubarak	1990/7/25	16	Rubin Kazan	Group G	Ghana	Russia
+MF	Mohammed Rabiu	1989/12/31	16	Kuban Krasnodar	Group G	Ghana	Russia
+MF	Albert Adomah	1987/12/13	14	Middlesbrough	Group G	Ghana	England
+MF	Afriyie Acquah	1992/1/5	4	Parma	Group G	Ghana	Italy
+FW	Kevin-Prince Boateng	1987/3/6	12	Schalke 04	Group G	Ghana	Germany
+FW	Asamoah Gyan (c)	1985/11/22	78	Al-Ain	Group G	Ghana	U.A.E.
+FW	Majeed Waris	1991/9/19	9	Valenciennes	Group G	Ghana	France
+FW	Jordan Ayew	1991/9/11	12	Sochaux	Group G	Ghana	France
+GK	Eduardo	1982/9/19	33	Braga	Group G	Portugal	Portugal
+DF	Bruno Alves	1981/11/27	71	Fenerbahçe	Group G	Portugal	Turkey
+DF	Pepe	1983/2/26	57	Real Madrid	Group G	Portugal	Spain
+MF	Miguel Veloso	1986/5/11	47	Dynamo Kyiv	Group G	Portugal	Ukraine
+DF	Fábio Coentrão	1988/3/11	43	Real Madrid	Group G	Portugal	Spain
+MF	William Carvalho	1992/4/7	3	Sporting	Group G	Portugal	Portugal
+FW	Cristiano Ronaldo (c)	1985/2/5	110	Real Madrid	Group G	Portugal	Spain
+MF	João Moutinho	1986/9/8	66	Monaco	Group G	Portugal	Monaco
+FW	Hugo Almeida	1984/5/23	54	Besiktas	Group G	Portugal	Turkey
+MF	Vieirinha	1986/1/24	7	VfL Wolfsburg	Group G	Portugal	Germany
+FW	Éder	1987/12/22	7	Braga	Group G	Portugal	Portugal
+GK	Rui Patrício	1988/2/15	29	Sporting	Group G	Portugal	Portugal
+DF	Ricardo Costa	1981/5/16	18	Valencia	Group G	Portugal	Spain
+DF	Luís Neto	1988/5/26	7	Zenit Saint Petersburg	Group G	Portugal	Russia
+MF	Rafa Silva	1993/5/17	2	Braga	Group G	Portugal	Portugal
+MF	Raul Meireles	1983/3/17	73	Fenerbahçe	Group G	Portugal	Turkey
+MF	Nani	1986/11/17	73	Manchester United	Group G	Portugal	England
+MF	Silvestre Varela	1985/2/2	22	Porto	Group G	Portugal	Portugal
+DF	André Almeida	1990/9/10	3	Benfica	Group G	Portugal	Portugal
+MF	Rúben Amorim	1985/1/27	11	Benfica	Group G	Portugal	Portugal
+DF	João Pereira	1984/2/25	35	Valencia	Group G	Portugal	Spain
+GK	Beto	1982/5/1	7	Sevilla	Group G	Portugal	Spain
+FW	Hélder Postiga	1982/8/2	67	Lazio	Group G	Portugal	Italy
+GK	Tim Howard	1979/3/6	99	Everton	Group G	United States	England
+DF	DeAndre Yedlin	1993/7/9	4	Seattle Sounders FC	Group G	United States	United States
+DF	Omar Gonzalez	1988/10/11	19	Los Angeles Galaxy	Group G	United States	United States
+MF	Michael Bradley	1987/7/31	85	Toronto FC	Group G	United States	Canada
+DF	Matt Besler	1987/2/11	16	Sporting Kansas City	Group G	United States	United States
+DF	John Brooks	1993/1/28	4	Hertha Berlin	Group G	United States	Germany
+DF	DaMarcus Beasley	1982/5/24	115	Puebla	Group G	United States	Mexico
+FW	Clint Dempsey (c)	1983/3/9	104	Seattle Sounders FC	Group G	United States	United States
+FW	Aron Jóhannsson	1990/11/10	8	AZ	Group G	United States	Netherlands
+MF	Mikkel Diskerud	1990/10/2	19	Rosenborg	Group G	United States	Norway
+MF	Alejandro Bedoya	1987/4/29	27	Nantes	Group G	United States	France
+GK	Brad Guzan	1984/9/9	25	Aston Villa	Group G	United States	England
+MF	Jermaine Jones	1981/11/3	41	Besiktas	Group G	United States	Turkey
+MF	Brad Davis	1981/11/8	16	Houston Dynamo	Group G	United States	United States
+MF	Kyle Beckerman	1982/4/23	36	Real Salt Lake	Group G	United States	United States
+MF	Julian Green	1995/6/6	2	Bayern Munich	Group G	United States	Germany
+FW	Jozy Altidore	1989/11/6	69	Sunderland	Group G	United States	England
+FW	Chris Wondolowski	1983/1/28	20	San Jose Earthquakes	Group G	United States	United States
+MF	Graham Zusi	1986/8/18	22	Sporting Kansas City	Group G	United States	United States
+DF	Geoff Cameron	1985/7/11	26	Stoke City	Group G	United States	England
+DF	Timothy Chandler	1990/3/29	12	1. FC Nürnberg	Group G	United States	Germany
+GK	Nick Rimando	1979/6/17	14	Real Salt Lake	Group G	United States	United States
+DF	Fabian Johnson	1987/12/11	21	1899 Hoffenheim	Group G	United States	Germany
+GK	Raïs M'Bolhi	1986/4/25	27	CSKA Sofia	Group H	Algeria	Bulgaria
+GK	Mohamed Zemmamouche	1985/3/19	7	USM Alger	Group H	Algeria	Algeria
+GK	Cédric Si Mohamed	1985/1/9	1	CS Constantine	Group H	Algeria	Algeria
+DF	Madjid Bougherra (c)	1982/10/7	61	Lekhwiya	Group H	Algeria	Qatar
+DF	Rafik Halliche	1986/9/2	28	Académica	Group H	Algeria	Portugal
+DF	Djamel Mesbah	1984/10/9	26	Livorno	Group H	Algeria	Italy
+DF	Carl Medjani	1985/5/15	25	Valenciennes	Group H	Algeria	France
+DF	Essaïd Belkalem	1989/1/1	13	Watford	Group H	Algeria	England
+DF	Liassine Cadamuro-Bentaïba	1988/3/5	6	Mallorca	Group H	Algeria	Spain
+DF	Faouzi Ghoulam	1991/2/1	5	Napoli	Group H	Algeria	Italy
+DF	Aïssa Mandi	1991/10/22	2	Reims	Group H	Algeria	France
+MF	Medhi Lacen	1984/5/15	29	Getafe	Group H	Algeria	Spain
+MF	Hassan Yebda	1984/5/14	24	Udinese	Group H	Algeria	Italy
+MF	Mehdi Mostefa	1983/8/30	22	Ajaccio	Group H	Algeria	France
+MF	Sofiane Feghouli	1989/12/26	18	Valencia	Group H	Algeria	Spain
+MF	Saphir Taïder	1992/2/29	10	Internazionale	Group H	Algeria	Italy
+MF	Abdelmoumene Djabou	1987/1/31	76	Club Africain	Group H	Algeria	Tunisia
+MF	Yacine Brahimi	1990/2/8	5	Granada	Group H	Algeria	Spain
+MF	Nabil Bentaleb	1994/11/24	2	Tottenham Hotspur	Group H	Algeria	England
+MF	Riyad Mahrez	1991/2/21	1	Leicester City	Group H	Algeria	England
+FW	El Arbi Hillel Soudani	1987/11/25	21	Dinamo Zagreb	Group H	Algeria	Croatia
+FW	Islam Slimani	1988/6/18	19	Sporting CP	Group H	Algeria	Portugal
+FW	Nabil Ghilas	1990/4/20	5	Porto	Group H	Algeria	Portugal
+GK	Thibaut Courtois	1992/5/11	16	Atlético Madrid	Group H	Belgium	Spain
+DF	Toby Alderweireld	1989/3/2	34	Atlético Madrid	Group H	Belgium	Spain
+DF	Thomas Vermaelen	1985/11/14	48	Arsenal	Group H	Belgium	England
+DF	Vincent Kompany (c)	1986/4/10	59	Manchester City	Group H	Belgium	England
+DF	Jan Vertonghen	1987/4/24	56	Tottenham Hotspur	Group H	Belgium	England
+MF	Axel Witsel	1989/1/12	48	Zenit Saint Petersburg	Group H	Belgium	Russia
+MF	Kevin De Bruyne	1991/6/28	22	VfL Wolfsburg	Group H	Belgium	Germany
+MF	Marouane Fellaini	1987/11/22	50	Manchester United	Group H	Belgium	England
+FW	Romelu Lukaku	1993/5/13	29	Everton	Group H	Belgium	England
+MF	Eden Hazard	1991/1/7	45	Chelsea	Group H	Belgium	England
+MF	Kevin Mirallas	1987/10/5	44	Everton	Group H	Belgium	England
+GK	Simon Mignolet	1988/8/6	14	Liverpool	Group H	Belgium	England
+GK	Sammy Bossut	1985/8/11	1	Zulte Waregem	Group H	Belgium	Belgium
+FW	Dries Mertens	1987/5/6	24	Napoli	Group H	Belgium	Italy
+DF	Daniel Van Buyten	1978/2/7	79	Bayern Munich	Group H	Belgium	Germany
+MF	Steven Defour	1988/4/15	43	Porto	Group H	Belgium	Portugal
+FW	Divock Origi	1995/4/18	2	Lille	Group H	Belgium	France
+DF	Nicolas Lombaerts	1985/3/20	26	Zenit Saint Petersburg	Group H	Belgium	Russia
+MF	Mousa Dembélé	1987/7/16	55	Tottenham Hotspur	Group H	Belgium	England
+MF	Adnan Januzaj	1995/2/5	1	Manchester United	Group H	Belgium	England
+DF	Anthony Vanden Borre	1987/10/24	25	Anderlecht	Group H	Belgium	Belgium
+MF	Nacer Chadli	1989/10/2	20	Tottenham Hotspur	Group H	Belgium	England
+DF	Laurent Ciman	1985/8/5	8	Standard Liège	Group H	Belgium	Belgium
+GK	Igor Akinfeev	1986/4/8	67	CSKA Moscow	Group H	Russia	Russia
+DF	Aleksei Kozlov	1986/11/16	10	Dynamo Moscow	Group H	Russia	Russia
+DF	Georgi Shchennikov	1991/4/27	3	CSKA Moscow	Group H	Russia	Russia
+DF	Sergei Ignashevich	1979/7/14	95	CSKA Moscow	Group H	Russia	Russia
+FW	Yuri Zhirkov	1983/8/20	59	Dynamo Moscow	Group H	Russia	Russia
+DF	Andrei Semyonov	1989/3/24	1	Terek Grozny	Group H	Russia	Russia
+MF	Igor Denisov	1984/5/17	42	Dynamo Moscow	Group H	Russia	Russia
+MF	Denis Glushakov	1987/1/27	26	Spartak Moscow	Group H	Russia	Russia
+FW	Aleksandr Kokorin	1991/3/19	20	Dynamo Moscow	Group H	Russia	Russia
+MF	Alan Dzagoev	1990/6/17	31	CSKA Moscow	Group H	Russia	Russia
+FW	Aleksandr Kerzhakov	1982/11/27	79	Zenit Saint Petersburg	Group H	Russia	Russia
+GK	Yuri Lodygin	1990/5/26	2	Zenit Saint Petersburg	Group H	Russia	Russia
+DF	Vladimir Granat	1987/5/22	4	Dynamo Moscow	Group H	Russia	Russia
+DF	Vasili Berezutski	1982/6/20	77	CSKA Moscow	Group H	Russia	Russia
+MF	Roman Shirokov (c)	1981/7/6	40	Krasnodar	Group H	Russia	Russia
+GK	Sergey Ryzhikov	1980/9/19	1	Rubin Kazan	Group H	Russia	Russia
+MF	Oleg Shatov	1990/7/29	6	Zenit Saint Petersburg	Group H	Russia	Russia
+FW	Aleksei Ionov	1989/2/18	5	Dynamo Moscow	Group H	Russia	Russia
+FW	Aleksandr Samedov	1984/7/19	16	Lokomotiv Moscow	Group H	Russia	Russia
+MF	Viktor Fayzulin	1986/4/22	18	Zenit Saint Petersburg	Group H	Russia	Russia
+FW	Maksim Kanunnikov	1991/7/14	2	Rubin Kazan	Group H	Russia	Russia
+DF	Andrey Yeshchenko	1984/2/9	11	Anzhi Makhachkala	Group H	Russia	Russia
+DF	Dmitri Kombarov	1987/1/22	21	Spartak Moscow	Group H	Russia	Russia
+GK	Jung Sung-Ryong	1985/1/4	60	Suwon Bluewings	Group H	South Korea	South Korea
+DF	Kim Chang-Soo	1985/9/12	8	Kashiwa Reysol	Group H	South Korea	Japan
+DF	Yun Suk-Young	1990/2/13	3	Queens Park Rangers	Group H	South Korea	England
+DF	Kwak Tae-Hwi	1981/7/8	34	Al-Hilal	Group H	South Korea	Saudi Arabia
+DF	Kim Young-Gwon	1990/2/27	20	Guangzhou Evergrande	Group H	South Korea	China
+DF	Hwang Seok-Ho	1989/6/27	3	Sanfrecce Hiroshima	Group H	South Korea	Japan
+MF	Kim Bo-Kyung	1989/10/6	27	Cardiff City	Group H	South Korea	Wales
+MF	Ha Dae-Sung	1985/3/2	13	Beijing Guoan	Group H	South Korea	China
+FW	Son Heung-Min	1992/7/8	24	Bayer Leverkusen	Group H	South Korea	Germany
+FW	Park Chu-Young	1985/7/10	63	Watford	Group H	South Korea	England
+FW	Lee Keun-Ho	1985/4/11	63	Sangju Sangmu	Group H	South Korea	South Korea
+DF	Lee Yong	1986/12/24	11	Ulsan Hyundai	Group H	South Korea	South Korea
+MF	Koo Ja-Cheol (c)	1989/2/27	36	Mainz 05	Group H	South Korea	Germany
+MF	Han Kook-Young	1990/4/19	9	Kashiwa Reysol	Group H	South Korea	Japan
+MF	Park Jong-Woo	1989/3/10	10	Guangzhou R&F	Group H	South Korea	China
+MF	Ki Sung-Yueng	1989/1/24	58	Sunderland	Group H	South Korea	England
+MF	Lee Chung-Yong	1988/7/2	54	Bolton Wanderers	Group H	South Korea	England
+FW	Kim Shin-Wook	1988/4/14	26	Ulsan Hyundai	Group H	South Korea	South Korea
+FW	Ji Dong-Won	1991/5/28	27	FC Augsburg	Group H	South Korea	Germany
+DF	Hong Jeong-Ho	1989/8/12	24	FC Augsburg	Group H	South Korea	Germany
+GK	Kim Seung-Gyu	1990/9/30	5	Ulsan Hyundai	Group H	South Korea	South Korea
+DF	Park Joo-Ho[57]	1987/1/16	13	Mainz 05	Group H	South Korea	Germany
+GK	Lee Bum-Young	1989/4/2	0	Busan I'Park	Group H	South Korea	South Korea

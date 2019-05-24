@@ -1,0 +1,24 @@
+<html>
+<head><meta charset='UTF-8' />
+<title>example/railfallplot.R</title>
+<link rel='stylesheet' href='styles/github.css'>
+<script src='highlight.pack.js'></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</head><body><p><img src='railfallplot.jpg' style='width:1000px;height:1000px'></p><p><a href='railfallplot.pdf'>download PDF</a></p>
+<p id='comment'></p>
+<p id='code'><pre><code>
+library(circlize)
+
+load(paste(system.file(package = "circlize"), "/extdata/DMR.RData", sep=""))
+
+# rainfall
+circos.initializeWithIdeogram(plotType = c("axis", "labels"))
+
+bed_list = list(DMR_hyper, DMR_hypo)
+circos.genomicRainfall(bed_list, pch = 16, cex = 0.4, col = c("#FF000080", "#0000FF80"))
+
+circos.genomicDensity(bed_list[[1]], col = c("#FF000080"), track.height = 0.1)
+circos.genomicDensity(bed_list[[2]], col = c("#0000FF80"), track.height = 0.1)
+
+circos.clear()</code></pre></p>
+</body></html>

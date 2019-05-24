@@ -1,0 +1,17 @@
+<html>
+<head><meta charset='UTF-8' />
+<title>example/genomic_posTrans_test.R</title>
+<link rel='stylesheet' href='styles/github.css'>
+<script src='highlight.pack.js'></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</head><body><p><img src='genomic_posTrans_test.jpg' style='width:1000px;height:1000px'></p><p><a href='genomic_posTrans_test.pdf'>download PDF</a></p>
+<p id='comment'></p>
+<p id='code'><pre><code>library(circlize)
+
+circos.initializeWithIdeogram()
+bed = generateRandomBed(nr = 150, fun = function(k) sample(letters, k, replace = TRUE))
+bed[1, 4] = "aaaaa"
+circos.genomicLabels(bed, labels.column = 4, side = "inside")
+circos.clear()
+</code></pre></p>
+</body></html>
