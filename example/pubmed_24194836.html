@@ -39,7 +39,7 @@ circos.genomicTrackPlotRegion(cytoband, stack = TRUE, panel.fun = function(regio
     major.labels = major.at/1000000
     l = major.at %% 50000000 == 0
     major.labels[l] = ""
-    circos.axis("top", major.at = major.at, labels = major.labels, labels.facing = "clockwise", labels.cex = 0.4, major.tick.percentage = 0.5)
+    circos.axis("top", major.at = major.at, labels = major.labels, labels.facing = "clockwise", labels.cex = 0.4)
     circos.text(major.at[l], rep(1.7, sum(l)), paste0(major.at[l]/1000000, "MB"), cex = 0.8, facing = "clockwise", adj = c(0, 0.5), niceFacing = TRUE)
 }, bg.border = NA, track.height = 0.02)
 

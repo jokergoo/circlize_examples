@@ -95,7 +95,7 @@ circos.trackPlotRegion(ylim = c(0, 1), panel.fun = function(x, y) {
 }, track.height = 0.05, bg.border = NA)
 
 circos.trackPlotRegion(ylim = c(0, 1), panel.fun = function(x, y) {
-	circos.axis(h = "top", labels.cex = 0.4, major.tick.percentage = 0.4)
+	circos.axis(h = "top", labels.cex = 0.4)
 }, track.height = 0.02, bg.col = c(col2, col1), track.margin = c(0, 0.01))
 
 circos.trackPlotRegion(ylim = c(0, 1), panel.fun = function(x, y) {

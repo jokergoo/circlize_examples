@@ -29,7 +29,7 @@ img {
 <table>";
 
 my %not_run = {
-	"doodle.pdf" => 1,
+	"example/doodle.pdf" => 1,
 };
 
 my $i = 1;
@@ -91,9 +91,6 @@ foreach my $R (sort { (stat($b))[9] <=> (stat($a))[9] } @Rscript) {
 
 	$i ++;
 
-	if(-e $not_run{$pdf}) {
-		next;
-	}
 
 	open R, $R;
 
@@ -105,8 +102,10 @@ foreach my $R (sort { (stat($b))[9] <=> (stat($a))[9] } @Rscript) {
 	print $fh "\ndev.off()\n";
 	close($fh);
 
-	system("Rscript $filename");
-	unlink($filename);
+	if($R ne "example/doodle.R") {
+		system("Rscript $filename");
+		unlink($filename);
+	}
 	
 	system("convert -density 200 $pdf $jpg");
 	system("convert $jpg -scale 300x300 $jpg_small");
